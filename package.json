@@ -1,0 +1,27 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "pirmasis projektas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktorijavm/Node-intro.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viktorijavm/Node-intro/issues"
+  },
+  "homepage": "https://github.com/Viktorijavm/Node-intro#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.4"
+  }
+}
